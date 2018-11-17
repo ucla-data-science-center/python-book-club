@@ -14,7 +14,7 @@ GitHub materials for the book: https://github.com/wesm/pydata-book
 | Date | Chapter | Homework |
 | ---- | ------- | -------- |
 | 11/29 | Ch. 2-3  | TBD    |
-| 12/4 |  Ch. 4 (NumPy  | TBD   |
-| 12/20 | Ch. 4  | ch. 5    |
-| TBD  |         |          | 
+| 12/4 |  Ch. 4 (NumPy)  | TBD   |
+| 12/20 | Ch. 5 (Pandas)  | ch. 5    |
+| TBD  |   Jan.      |          | 
 
