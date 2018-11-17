@@ -13,8 +13,8 @@ GitHub materials for the book: https://github.com/wesm/pydata-book
 
 | Date | Chapter | Homework |
 | ---- | ------- | -------- |
-| 11/29 | Ch. 2  | Ch. 3    |
-| 12/4 |  Ch. 3  | Ch. 4    |
+| 11/29 | Ch. 2-3  | TBD    |
+| 12/4 |  Ch. 4 (NumPy  | TBD   |
 | 12/20 | Ch. 4  | ch. 5    |
 | TBD  |         |          | 
 
