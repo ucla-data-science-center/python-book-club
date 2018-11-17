@@ -1,7 +1,7 @@
-# python-book-club
+# Python Book Club
 A python book club for UCLA Library
 
-**The Book** 
+## The Book 
 Python For Data Analysis  
 by William McKinney  
 Copyright © O'Reilly, October 2017.  
